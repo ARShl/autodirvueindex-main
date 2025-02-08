@@ -3,8 +3,8 @@
 
 ***
 
-![功能预览](https://github.com/ARShl/autodirvueindex/blob/main/resources/images/step1.png?raw=true)
+![功能预览](./resources/images/step1.png)
 
-![功能预览](https://github.com/ARShl/autodirvueindex/blob/main/resources/images/step2.png?raw=true)
+![功能预览](./resources/images/step2.png)
 
-![功能预览](https://github.com/ARShl/autodirvueindex/blob/main/resources/images/step3.png?raw=true)
+![功能预览](./resources/images/step3.png)
