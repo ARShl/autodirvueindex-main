@@ -1,9 +1,9 @@
 {
   "name": "autodirvueindex",
   "displayName": "autoDirVueIndex",
-  "description": "自动添加组件",
+  "description": "vue2自动添加页面或组件",
   "icon": "resources/images/icon.png",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "engines": {
     "vscode": "^1.64.0"
   },
@@ -12,7 +12,7 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:autodirvueindex.cvcop"
+    "onCommand:vue2.createComponentOrPage"
   ],
   "main": "./dist/extension.js",
   "contributes": {
